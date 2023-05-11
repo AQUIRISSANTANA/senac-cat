@@ -3,19 +3,22 @@
 #5W2H
 
  - O quê é o GitHub?
-
+O GitHub é uma plataforma web que permite o armazenamento e compartilhamento de projetos de desenvolvimento de software usando o controle de versão Git. É uma plataforma colaborativa, onde os desenvolvedores podem trabalhar em equipe, acompanhar as mudanças feitas nos arquivos de um projeto, discutir ideias e revisar o código uns dos outros.
 
  - Por que usar o GitHub?
-
+Existem várias razões pelas quais o GitHub é amplamente usado como plataforma para hospedar projetos Git. Alguns motivos são:
+  * Controle de versão e colaboração: O GitHub fornece uma interface amigável e recursos poderosos para controle de versão com Git. 
+  * Visibilidade e networking: O GitHub é uma plataforma social, onde desenvolvedores podem explorar projetos de outras pessoas, aprender com o código-fonte disponível e contribuir com projetos interessantes. 
 
  - Quem deve conhecer e usar o GitHub?
-
+O GitHub é uma plataforma aberta e acessível para uma ampla gama de usuários. Qualquer pessoa que esteja envolvida no desenvolvimento de software, seja individualmente ou em equipe, pode usar o GitHub. 
 
  - Onde posso usar/acessar o GitHub?
-
+O GitHub pode ser usado em várias situações e contextos relacionados ao desenvolvimento de software e colaboração em projetos. 
 
  - Quando devo usar o GitHub?
-
+Para o desenvolvimento em equipe; Projetos de código aberto; Versionamento e controle de alterações; Compartilhamento e colaboração em projetos pessoais; Gerenciamento de projetos e tarefas; Contribuição e colaboração em comunidades de software.
+Essas são apenas algumas das situações em que o GitHub pode ser utilizado. No geral, sempre que precisar compartilhar, colaborar, controlar versões ou gerenciar projetos de desenvolvimento de software, o GitHub é uma opção valiosa.
 
  - Como posso usar o GitHub?
 
